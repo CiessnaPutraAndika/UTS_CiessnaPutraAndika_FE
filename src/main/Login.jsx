@@ -38,9 +38,9 @@ const Login = () => {
 
   return (
     <div className="w-full">
-      <div className="w-full bg-opacity-20 m-auto max-h-[640px] h-screen flex flex-col lg:flex-col justify-center items-center bg-black">
-        <form onSubmit={submit} className="bg-white rounded-md w-[25%] h-[40%] flex flex-col justify-center items-center drop-shadow-xl">
-          <p className="flex font-extrabold text-blue-600 text-2xl drop-shadow-md">WELCOME</p>
+      <div className="w-full bg-opacity-15 m-auto max-h-[665px] h-screen flex flex-col lg:flex-col justify-center items-center bg-black">
+        <form onSubmit={submit} className="bg-white rounded-md w-[80%] lg:w-[30%] md:w-[35%] sm:w-[40%] h-[40%] flex flex-col justify-center items-center drop-shadow-xl">
+          <p className="flex font-extrabold text-blue-600 text-2xl drop-shadow-md">OUR CUSTOMER</p>
           <div className="w-[80%] h-[60%] flex flex-col gap-y-1 justify-center">
             <p className="text-slate-400">Input nama <span className="text-red-500">*</span></p>
             <input onChange={handle} id='name' value={data.name} type="text" placeholder="First customer..." className="w-full rounded-md outline outline-blue-600 outline-2 p-1 drop-shadow-lg" />
