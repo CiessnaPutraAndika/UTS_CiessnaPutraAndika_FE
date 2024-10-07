@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/UTS_CiessnaPutraAndika_FE/static/css/main.d45bfd0d.css",
-    "main.js": "/UTS_CiessnaPutraAndika_FE/static/js/main.4a05c01d.js",
+    "main.css": "/UTS_CiessnaPutraAndika_FE/static/css/main.15d14d4c.css",
+    "main.js": "/UTS_CiessnaPutraAndika_FE/static/js/main.9af05e09.js",
     "index.html": "/UTS_CiessnaPutraAndika_FE/index.html",
-    "main.d45bfd0d.css.map": "/UTS_CiessnaPutraAndika_FE/static/css/main.d45bfd0d.css.map",
-    "main.4a05c01d.js.map": "/UTS_CiessnaPutraAndika_FE/static/js/main.4a05c01d.js.map"
+    "main.15d14d4c.css.map": "/UTS_CiessnaPutraAndika_FE/static/css/main.15d14d4c.css.map",
+    "main.9af05e09.js.map": "/UTS_CiessnaPutraAndika_FE/static/js/main.9af05e09.js.map"
   },
   "entrypoints": [
-    "static/css/main.d45bfd0d.css",
-    "static/js/main.4a05c01d.js"
+    "static/css/main.15d14d4c.css",
+    "static/js/main.9af05e09.js"
   ]
 }
