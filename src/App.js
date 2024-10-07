@@ -10,7 +10,7 @@ import Payment from './main/Payment'
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/uts-CiessnaPutraAndika_FE/'>
       <Routes>
         <Route path='/' element={<Homepage/>}/>
         <Route path='/menu' element={<Menu/>}/>
