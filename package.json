@@ -1,7 +1,7 @@
 {
   "name": "fe-order",
   "version": "0.1.0",
-  "homepage": "https://github.com/CiessnaPutraAndika/uts-CiessnaPutraAndika_FE/",
+  "homepage": "https://CiessnaPutraAndika.github.io/UTS_CiessnaPutraAndika_FE/",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^2.1.8",
