@@ -12,6 +12,13 @@ Disini saya membuat sebuah project UTS Front End yaitu Management Order dengan m
 - <b>Axios</b> - Promise-based HTTP client for API requests.
 - <b>React Router DOM</b> - A library for routing in React applications, providing a way to navigate between different components or pages within a web application.
 
+## ROUTING AKSES MENU :
+- /menu
+- /meja
+- /customer
+- /order
+- /payment
+
 ## SCREENSHOT
 Berikut hasil screenshot dari tampilan yang telah dibuat :
 
