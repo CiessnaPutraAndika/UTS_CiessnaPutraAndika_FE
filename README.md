@@ -22,13 +22,13 @@ Disini saya membuat sebuah project UTS Front End yaitu Management Order dengan m
 ## SCREENSHOT
 Berikut hasil screenshot dari tampilan yang telah dibuat :
 
-1. <b>Halaman Awal</b> - memasuki nama customer<img src="./SS9.jpg">
-2. <b>Halaman Table Customer</b> - data nama Customer<img src="./SS2.jpg">
-3. <b>Halaman Table Meja</b> - data meja Customer<img src="./SS3.jpg">
-4. <b>Halaman Table Order</b> - data Order Customer<img src="./SS8.jpg">
-5. <b>Hasil Modal Menu</b> - memasuki data menu<img src="./SS5.jpg">
-6. <b>Halaman Menu</b> - tampilan data menu<img src="./SS4.jpg">
-7. <b>Halaman Transaksi</b> - memasuki data transaksi<img src="./SS6.jpg">
+1. <b>Halaman Awal</b> - memasuki nama customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/<img src="./SS9.jpg">
+2. <b>Halaman Table Customer</b> - data nama Customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/customer<img src="./SS2.jpg">
+3. <b>Halaman Table Meja</b> - data meja Customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/meja<img src="./SS3.jpg">
+4. <b>Halaman Table Order</b> - data Order Customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/order<img src="./SS8.jpg">
+5. <b>Hasil Modal Menu</b> - memasuki data menu.<img src="./SS5.jpg">
+6. <b>Halaman Menu</b> - tampilan data menu. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/menu<img src="./SS4.jpg">
+7. <b>Halaman Transaksi</b> - memasuki data transaksi. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/transaksi<img src="./SS6.jpg">
 7. <b>Hasil Modal Transaksi</b> - hasil data transaksi<img src="./SS7.jpg">
 
 #### NOTE :
