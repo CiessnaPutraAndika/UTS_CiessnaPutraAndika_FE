@@ -28,7 +28,7 @@ Berikut hasil screenshot dari tampilan yang telah dibuat :
 4. <b>Halaman Table Order</b> - data Order Customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/order<img src="./SS8.jpg">
 5. <b>Hasil Modal Menu</b> - memasuki data menu.<img src="./SS5.jpg">
 6. <b>Halaman Menu</b> - tampilan data menu. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/menu<img src="./SS4.jpg">
-7. <b>Halaman Transaksi</b> - memasuki data transaksi. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/transaksi<img src="./SS6.jpg">
+7. <b>Halaman Transaksi</b> - memasuki data transaksi. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/payment<img src="./SS6.jpg">
 7. <b>Hasil Modal Transaksi</b> - hasil data transaksi<img src="./SS7.jpg">
 
 #### NOTE :
