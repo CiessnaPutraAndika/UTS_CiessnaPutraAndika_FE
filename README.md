@@ -22,7 +22,7 @@ Disini saya membuat sebuah project UTS Front End yaitu Management Order dengan m
 ## SCREENSHOT
 Berikut hasil screenshot dari tampilan yang telah dibuat :
 
-1. <b>Halaman Awal</b> - memasuki nama customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/<img src="./SS9.jpg">
+1. <b>Halaman Awal</b> - memasuki nama customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/<img src="../src/img/SS9.jpg">
 2. <b>Halaman Table Customer</b> - data nama Customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/customer<img src="./SS2.jpg">
 3. <b>Halaman Table Meja</b> - data meja Customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/meja<img src="./SS3.jpg">
 4. <b>Halaman Table Order</b> - data Order Customer. https://ciessnaputraandika.github.io/UTS_CiessnaPutraAndika_FE/order<img src="./SS8.jpg">
